@@ -1,0 +1,56 @@
+I
+H 1000
+B 1000 D F Annie Hall, 1977
+B 1000 D F Fargo, 1996
+B 1000 D F National Lampoon's Animal House, 1978
+B 1000 D F Pirates of the Caribbean, 2003
+B 1000 D F Sleepless in Seattle, 1993
+B 1000 D F When Harry Met Sally, 1989
+B 1000 D F You've Got Mail, 1998
+B 1000 D D Barry Levinson, Good Morning Vietnam,
+B 1000 D D Gus Van Sant, Good Will Hunting,
+B 1000 D D Phillippe De Broca, King of Hearts,
+B 1000 D D Jonathan Demme, Silence of the Lambs,
+B 1000 D D Nancy Savoca, Dogfight,
+B 1000 D D Steven Spielberg, Schindler's List,
+B 1000 D D Clint Eastwood, Unforgiven,
+B 1000 D C 9 1938 Cary Grant
+B 1000 D C 9 1938 Katherine Hepburn
+B 1000 D C 2 1939 Vivien Leigh
+B 1000 D C 7 1939 Judy Garland
+B 1000 D C 5 1940 Cary Grant
+B 1000 D C 5 1940 Katherine Hepburn
+B 1000 D C 8 1942 Humphrey Bogart
+B 1000 D C 8 1942 Ingrid Bergman
+B 1000 D C 11 1946 James Steward
+B 1000 D C 2 1971 Malcolm McDowell
+B 1000 D C 3 1971 Ruth Gordon
+I
+H 1000
+R 1000 D F Annie Hall, 1977
+R 1000 D F Fargo, 1996
+R 1000 D F National Lampoon's Animal House, 1978
+R 1000 D F Pirates of the Caribbean, 2003
+R 1000 D F Sleepless in Seattle, 1993
+R 1000 D F When Harry Met Sally, 1989
+R 1000 D F You've Got Mail, 1998
+R 1000 D D Barry Levinson, Good Morning Vietnam,
+R 1000 D D Gus Van Sant, Good Will Hunting,
+R 1000 D D Phillippe De Broca, King of Hearts,
+R 1000 D D Jonathan Demme, Silence of the Lambs,
+R 1000 D D Nancy Savoca, Dogfight,
+R 1000 D D Steven Spielberg, Schindler's List,
+R 1000 D D Clint Eastwood, Unforgiven,
+R 1000 D C 9 1938 Cary Grant
+R 1000 D C 9 1938 Katherine Hepburn
+R 1000 D C 2 1939 Vivien Leigh
+R 1000 D C 7 1939 Judy Garland
+R 1000 D C 5 1940 Cary Grant
+R 1000 D C 5 1940 Katherine Hepburn
+R 1000 D C 8 1942 Humphrey Bogart
+R 1000 D C 8 1942 Ingrid Bergman
+R 1000 D C 11 1946 James Steward
+R 1000 D C 2 1971 Malcolm McDowell
+R 1000 D C 3 1971 Ruth Gordon
+I
+H 1000
